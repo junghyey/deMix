@@ -37,7 +37,7 @@ One of the most popular methods for examining protein conformational changes and
   2. Double Click the bat file. → Run anyway/Run</br>
   - **macOS:** </br>
   1. Download Windows version. & Extract the compressed file.</br>
-  2. Right-click the deMix → Open with Terminal → Open. </br>
+  2. Right-click the deMix → Open with Terminal/Open. </br>
   - **Linux:** </br>
   1. Download the linux version. & Extract the compressed file.</br>
   2. Double Click the .sh</br>
