@@ -25,7 +25,7 @@ One of the most popular methods for examining protein conformational changes and
   - [macOS](https://www.dropbox.com/scl/fi/73q9p73z9zxu9p8lno5o2/deMix_ver2_macos.zip?rlkey=d63a2x4vp9xaxxq8jz5jsupmf&dl=0)
   - [Linux](https://www.dropbox.com/scl/fi/wawfqmhxi3pty9jlmnu1u/deMix_ver2_linux.zip?rlkey=oo66apu69hdtlvcfewy6q8o9p&dl=0)
 2. Requirement(s) </br>
-  - Java Version >= 17 
+  - Java Version >= 17 </br>
     To check (type this in the command prompt) = java - version
     Download java here: [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/)
 3. To run:</br>
