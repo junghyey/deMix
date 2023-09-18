@@ -19,9 +19,6 @@ One of the most popular methods for examining protein conformational changes and
   - Includes intuitive and interactive GUI or features.</br>
   - Allows users to focus more on analysis rather than spend time adapting to the software.</br>
 
-## General Process:  
-<img width="679" alt="Screenshot 2023-09-18 at 3 40 29 PM" src="https://github.com/junghyey/deMix/assets/102386164/8f69b01a-6417-4876-8842-c4791e02c352">
-
 ## How to start
 1. Download the deMix file based on your OS.</br>
   - [Windows](https://www.dropbox.com/scl/fi/f04bfdxs5mylplgxco9se/deMix_ver2_windows.zip?rlkey=ymqbi3c8tpzez6dsy7zv3sruc&dl=0)
