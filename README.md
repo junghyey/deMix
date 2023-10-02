@@ -21,9 +21,9 @@ One of the most popular methods for examining protein conformational changes and
 
 ## How to start
 1. Download the deMix file based on your OS.</br>
-  - [Windows](https://www.dropbox.com/scl/fi/wnp841447wkt7tezc2wxt/deMix_ver2_windows.zip?rlkey=08u5o6znmjirgdj4av84b3jw5&dl=0)
-  - [macOS](https://www.dropbox.com/scl/fi/weh0aso6pyj324lbuiypc/deMix_ver2_macos.zip?rlkey=p0adm57g1qbmzve5shosxyrfk&dl=0)
-  - [Linux](https://www.dropbox.com/scl/fi/weigabtvwd7o6w2t4rkyi/deMix_ver2_linux.tar.gz?rlkey=xcn5uhms7boxz8fe5u7mxrlq4&dl=0)
+  - [Windows](https://www.dropbox.com/scl/fi/wsi9val9dcfz3zpri6tsk/deMix_ver2_windows.zip?rlkey=s6qs9ky88p4anv0cyi2f687qn&dl=0)
+  - [macOS](https://www.dropbox.com/scl/fi/nhd97q7lpaznmj3ljb3cs/deMix_ver2_macos.zip?rlkey=o2obgnpxbw3quc9l9pqhno8dg&dl=0)
+  - [Linux](https://www.dropbox.com/scl/fi/h4o4tkx0x5mlagetuqtxe/deMix_ver2_linux.tar.gz?rlkey=edvtfkv1kgj6jrxptv43voa81&dl=0)
 2. Requirement(s) </br>
   - Java Version >= 17 </br>
     To check (type this in the command prompt) = java - version
