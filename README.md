@@ -23,7 +23,7 @@ One of the most popular methods for examining protein conformational changes and
 1. Download the deMix file based on your OS.</br>
   - [Windows](https://www.dropbox.com/scl/fi/wsi9val9dcfz3zpri6tsk/deMix_ver2_windows.zip?rlkey=s6qs9ky88p4anv0cyi2f687qn&dl=0)
   - [macOS](https://www.dropbox.com/scl/fi/nhd97q7lpaznmj3ljb3cs/deMix_ver2_macos.zip?rlkey=o2obgnpxbw3quc9l9pqhno8dg&dl=0)
-  - [Linux](https://www.dropbox.com/scl/fi/h4o4tkx0x5mlagetuqtxe/deMix_ver2_linux.tar.gz?rlkey=edvtfkv1kgj6jrxptv43voa81&dl=0)
+  - [Linux](https://www.dropbox.com/scl/fi/px7159t5kog3suelepctk/deMix_ver2_linux.zip?rlkey=8tfo14v6l513489yo1egf1kyg&dl=0)
 2. Requirement(s) </br>
   - Java Version >= 17 </br>
     To check (type this in the command prompt) = java - version
