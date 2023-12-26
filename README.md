@@ -21,7 +21,7 @@ One of the most popular methods for examining protein conformational changes and
 
 ## How to start
 1. Download the deMix file based on your OS.</br>
-  - [Windows](https://www.dropbox.com/scl/fi/m1k2yqxzjibfym1blk9fr/deMix_ver2_windows.zip?rlkey=zt945f5u0ulkhf433lz6x7257&dl=0)
+  - [Windows](https://www.dropbox.com/scl/fi/hv4tg99202qovyykaye6s/deMix_ver2_windows.zip?rlkey=6qahgdkpiavy9280b08rmcnjc&dl=0)
   - [macOS](https://www.dropbox.com/scl/fi/9tpxvwt2hwpgtkyzmx7nl/deMix_ver2_macos.zip?rlkey=u2g4lsp8lcwwo9fkty3x27ahf&dl=0)
   - [Linux](https://www.dropbox.com/scl/fi/e0m1riji04ozhjava1dvx/deMix_ver2_linux.zip?rlkey=u03fgqukpd1o8kx6y1uufa8ka&dl=0)
 2. Requirement(s) </br>
